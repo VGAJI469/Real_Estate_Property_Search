@@ -1,4 +1,4 @@
-# 🏡 AI Semantic Property Search (RAG)
+# 🏡 Real Estate Property Search (RAG)
 
 An intelligent real estate search application powered by **Retrieval-Augmented Generation (RAG)** that understands natural language queries and delivers context-aware property recommendations. Instead of relying on traditional keyword matching, this system uses semantic embeddings and vector similarity to identify the most relevant properties.
 
