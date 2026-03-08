@@ -6,12 +6,6 @@ Designed as a scalable academic AI project, the application combines machine lea
 
 ---
 
-## 🚀 Live Demo
-👉 *(Add your deployed Streamlit link here)*  
-Example: https://your-app-name.streamlit.app
-
----
-
 ## 📌 Features
 
 ✅ **Semantic Property Search**  
